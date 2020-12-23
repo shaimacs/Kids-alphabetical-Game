@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css"></link>
+    <title>Kids Game</title>
+</head>
+<body>
+    
+    <!-- Canvas for the main H1 -->
+    <canvas id="myCanvas" width="400" height="200" style="border:0px;">
+        Your browser does not support the HTML5 canvas tag.</canvas>
+
+    <!-- Generate Random Letter-->
+    <div class="container">
+        <span class="random_letter"></span>
+      </div>
+      <a href="#/" class="new_letter">Click To Generate</a>
+
+       <!-- Audio Picture -->
+      <audio id="AudioSrc">
+        <source src="sounds/" type="audio/mpeg"> <!---Change to loop name--->
+        </audio>
+        <div id="sounddiv"><bgsound id="sound"></div>
+         <a href="javascript:playclip();"><img src="Pic/download.png" width="90" height="90" border="0" alt="Click for Sound"></a><br>
+
+      <!--Table to write the Letters-->
+      <table>
+        <tr>
+          <th>Capital </th>
+          <th>Small</th>
+        </tr>
+        <tr>
+          <td> <input type="text" id="ValueCL" placeholder="Value for Capital Letter"></td>
+          <td> <input type="text" id="ValueSL" placeholder="Value for Samll Letter"></td>
+        </tr>
+        <tr>
+            <td> <button id='CheckCL'>Check</button></td>
+            <td> <button id='CheckSL'>Check</button></td>
+          </tr>
+        <tr>
+          <td><p id="ResultCL">Result : </p></td>
+          <td><p id="ResultSL">Result : </p></td>
+        </tr>
+      </table>
+
+
+    <!--Scripts-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

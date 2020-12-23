@@ -1,0 +1,66 @@
+#myCanvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    bottom: 70;
+    left: 0;
+    right: 0;
+}
+#random_letter{
+  position: center;
+}
+
+/* Generating New Letter */
+.new_letter {
+    /*display: block;
+    position: center;*/
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+  }
+
+  .container  {
+    margin: 0;
+    display: flex;
+    align-items:flex-end ;
+    justify-content: center;
+    height: 50vh;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px blue;
+    text-align: right;
+  }
+ 
+  /* Table */
+  table, th, td {
+    margin-left: auto;
+  margin-right: auto;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+  }
+
+  body {
+      background-color:beige;
+  }
+/*button*/
+  #CheckCL, #CheckSL {
+    background-color: Pink;
+    border: none;
+    color: palevioletred;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+  
