@@ -24,9 +24,8 @@ Add new education Features, like numbers, Mathmatical operations, etc..
 <b>Function </b>
 function stringGen(len) 
 Used this function to generate random letter by using the math.random method.
+<img src="Screenshot_4.png" title="P1"/>
 
 <ol><b>What new Things I Learned </b>
 <li>Canvas</li>
-<li>Audio Tag</li>
-</ol>
-
+<li>Audio Tag</li></ol>
