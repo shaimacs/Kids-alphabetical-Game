@@ -19,7 +19,7 @@ As this project's idea is about games, I thought it would be a great idea to thi
 <li>As a <b>user,</b> i want to hear the alphabetical sounds before writing it</li>
 </ol>
 
-<h3>Unsolved Problems</h3>
+<h3>Future Features</h3>
 Add new education Features, like numbers, Mathmatical operations, etc..
 
 <h3>Function </h3>
