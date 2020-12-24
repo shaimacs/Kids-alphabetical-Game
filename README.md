@@ -1,6 +1,6 @@
 #Kids-alphabetical-Game-Shaima
 
-<b>Planning</b>
+<h3>Planning</h3>
 As this project's idea is about games, I thought it would be a great idea to think out of the box and make eduacation game for the kids to use the internet in a useful way.
 
 <ol><h3>Technologies used :</h3>
@@ -10,23 +10,23 @@ As this project's idea is about games, I thought it would be a great idea to thi
 <li>JQUERY</li>
 </ol>
 
-<b>wireframe</b>
+<h3>wireframe</h3>
 <img src="P1WireFrame.png" title="P1"/>
 
-<ol><b>user stories</b>
+<ol><h3>user stories</h3>
 <li>As a <b>mother,</b> I want my child to use the internet in education.</li>
 <li>As a <b>user,</b> i want to study the alphabetical in more enjoyable way </li>
 <li>As a <b>user,</b> i want to hear the alphabetical sounds before writing it</li>
 </ol>
 
-<b>Unsolved Problems</b>
+<h3>Unsolved Problems</h3>
 Add new education Features, like numbers, Mathmatical operations, etc..
 
-<b>Function </b>
+<h3>Function </h3>
 function stringGen(len) 
 Used this function to generate random letter by using the math.random method.
 <img src="Screenshot_4.png" title="P1"/>
 
-<ol><b>What new Things I Learned </b>
+<ol><h3>What new Things I Learned </h3>
 <li>Canvas</li>
 <li>Audio Tag</li></ol>
