@@ -8,7 +8,7 @@
 <li>DOM</li></ol>
 
 <b>wireframe</b>
-<img src="P1WireFrame.png" title="P1">
+<img src="P1WireFrame.png" title="P1"/>
 
 <ol><b>user stories</b>
 <li>As a mother, I want my child to use the internet in education.</li>
