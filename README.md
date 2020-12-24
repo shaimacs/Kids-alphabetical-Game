@@ -6,8 +6,10 @@ HTML, CSS, JS, JQUERY, DOM.
 wireframe 
 <img src="P1WireFrame.png" title="P1">
 
-user stories
-As a mother, I want my child to use the internet in education.
+<ol>user stories
+<li>As a mother, I want my child to use the internet in education.</li>
+
+</ol>
 
 Planning
 As this project's idea is about games, I thought it would be a great idea to think out of the box and make eduacation game.
