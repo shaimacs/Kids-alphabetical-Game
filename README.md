@@ -11,7 +11,7 @@ As this project's idea is about games, I thought it would be a great idea to thi
 </ol>
 
 <h3>wireframe</h3>
-<img src="P1WireFrame.png" title="P1"/>
+<img src="Pic/P1WireFrame.png" title="P1"/>
 
 <ol><h3>user stories</h3>
 <li>As a <b>mother,</b> I want my child to use the internet in education.</li>
@@ -25,9 +25,9 @@ Add new education Features, like numbers, Mathmatical operations, etc..
 <h3>Function </h3>
 function stringGen(len) 
 Used this function to generate random letter by using the math.random method.
-<img src="Screenshot_4.png" title="P1"/>
+<img src="Pic/Screenshot_4.png" title="P1"/>
 Audio Object and function 
-<img src="Screenshot_1.png" title="P1"/>
+<img src="Pic/Screenshot_1.png" title="P1"/>
 
 
 <ol><h3>What new Things I Learned </h3>
